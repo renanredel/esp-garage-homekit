@@ -16,7 +16,7 @@ Still in development.
 
 After installed ESP-IDF and Homekit:
 ```sh
-$ git clone https://github.com/renan1133/esp-garage-homekit.git
+$ git clone https://github.com/renanredel/esp-garage-homekit.git
 ```
 
 ### Configuration
